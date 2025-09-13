@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.comjeremylab_week_02_a"
+    namespace = "com.jeremy.lab_week_02_a"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.comjeremylab_week_02_a"
+        applicationId = "com.jeremy.lab_week_02_a"
         minSdk = 33
         targetSdk = 36
         versionCode = 1
